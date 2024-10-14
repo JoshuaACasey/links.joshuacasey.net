@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
-     { email = "mailto:contact@dftba.xyz" },
+     #{ email = "mailto:contact@dftba.xyz" },
      { twitch = "https://twitch.tv/JoshuaACasey" },
      { youtube = "https://www.youtube.com/c/JoshuaCasey" },
      { tiktok = "https://tiktok.com/@JoshuaACasey" },
@@ -23,7 +23,7 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
      { mastodon = "https://aethy.com/@Nerd_JAC" },
      { link = { href = "https://pixelfed.social/JoshuaCasey", text = "Pixelfed", icon = "pixelfed" } },
      { bluesky = "https://bsky.app/profile/joshuacasey.net" },
-     { discord = "https://discord.gg/38JUvfDpMt" },
+     #{ discord = "https://discord.gg/38JUvfDpMt" },
      { github = "https://github.com/JoshuaACasey" },
      { gitlab = "https://gitlab.com/JoshuaACasey" },
      { linkedin = "https://linkedin.com/in/joshuaacasey" },
