@@ -15,27 +15,23 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
-     { email = "mailto:contact@joshuacasey.net" },
+     { email = "mailto:contact@dftba.xyz" },
      { twitch = "https://twitch.tv/JoshuaACasey" },
      { youtube = "https://www.youtube.com/c/JoshuaCasey" },
      { tiktok = "https://tiktok.com/@JoshuaACasey" },
      { twitter = "https://twitter.com/Nerd_JAC" },
      { mastodon = "https://aethy.com/@Nerd_JAC" },
-     { link = { href = "https://pixelfed.social/JoshuaCasey", text = "Pixelfed", icon = "instagram" } },
+     { link = { href = "https://pixelfed.social/JoshuaCasey", text = "Pixelfed", icon = "pixelfed" } },
      { bluesky = "https://bsky.app/profile/joshuacasey.net" },
      { discord = "https://discord.gg/38JUvfDpMt" },
      { github = "https://github.com/JoshuaACasey" },
      { gitlab = "https://gitlab.com/JoshuaACasey" },
      { linkedin = "https://linkedin.com/in/joshuaacasey" },
-     { steam = "https://steamcommunity.com/id/JoshuaACasey" },
+#     { steam = "https://steamcommunity.com/id/JoshuaACasey" },
 
-     { link = { href = "https://throne.com/joshuaacasey", text = "Throne Wishlist" } },
-     { link = { href = "https://store.steampowered.com/wishlist/id/JoshuaACasey", text = "Steam Wishlist" } },
-     { link = { href = "https://streamlabs.com/joshuaacasey/tip", text = "Tip on Streamlabs" } },
+     { link = { href = "https://throne.com/joshuaacasey", text = "Throne Wishlist", icon = "gift" } },
+     { link = { href = "https://store.steampowered.com/wishlist/id/JoshuaACasey", text = "Steam Wishlist", icon = "gift" } },
 #     { link = { href = "https://www.paypal.com/paypalme/JoshuaACasey", text = "Tip with Paypal", icon = "" } },
-     { link = { href = "https://account.proton.me/refer-a-friend?referrer=SFG18D34ZDT0", text = "Proton referral" } },
-     { link = { href = "https://tello.com/account/register?_referral=P32D5RGD", text = "Tello referral" } },
-     { link = { href = "https://www.digitalocean.com/?refcode=1148933d9638", text = "DigitalOcean referral" } },
 
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
