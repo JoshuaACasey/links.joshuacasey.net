@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
      { tiktok = "https://tiktok.com/@JoshuaACasey" },
      #{ twitter = "https://twitter.com/Nerd_JAC" },
      { mastodon = "https://aethy.com/@Nerd_JAC" },
-     { link = { href = "https://pixelfed.social/JoshuaCasey", text = "Pixelfed", icon = "pixelfed" } },
+     { instagram = { href = "https://pixelfed.social/JoshuaCasey", text = "Pixelfed", icon = "pixelfed" } },
      #{ discord = "https://discord.gg/38JUvfDpMt" },
      { github = "https://github.com/JoshuaACasey" },
      { gitlab = "https://gitlab.com/JoshuaACasey" },
