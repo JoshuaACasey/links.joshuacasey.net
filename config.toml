@@ -19,7 +19,7 @@ links = [
     { twitch = "https://twitch.tv/JoshuaACasey" },
 
     { bluesky = "https://bsky.app/profile/joshuacasey.net" },
-    #{ mastodon = "https://aethy.com/@Nerd_JAC" },
+    { mastodon = "https://social.dftba.xyz/@joshua" },
     { instagram = { href = "https://pixelfed.social/JoshuaCasey", text = "Pixelfed", icon = "pixelfed" } },
     { tiktok = "https://www.tiktok.com/@autisticjoshua" },
     { youtube = "https://www.youtube.com/c/JoshuaCasey" },
