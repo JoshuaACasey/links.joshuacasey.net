@@ -4,15 +4,15 @@ defaultContentLanguage = "en"
 theme = "lynx"
 
 title = "links.joshuacasey.net"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "© 2013-Present Joshua Casey  "
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 
 [params.author]
 name = "Joshua Casey"
-headline = "Online Activist & Video Game Streamer"
-image = "profilepic.jpg"                           # path relative to static directory
+headline = "Digital Rights Activist & Video Game Streamer"
+image = "profilepic.png"                           # path relative to static directory
 
 links = [
     { twitch = { href = "https://joystick.tv/t/u/joshuaacasey?t=1797a72c", text = "Joystick.tv" } },
