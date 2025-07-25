@@ -12,7 +12,7 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 [params.author]
 name = "Joshua Casey"
 headline = "Digital Rights Activist & Video Game Streamer"
-image = "profilepic.png"                           # path relative to static directory
+image = "https://sharex.dftba.xyz/PNGTuber_Closed-Mouth.png"                           # path relative to static directory
 
 links = [
     { twitch = { href = "https://joystick.tv/t/u/joshuaacasey?t=1797a72c", text = "Joystick.tv" } },
