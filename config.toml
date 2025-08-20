@@ -20,19 +20,25 @@ links = [
 
     { bluesky = "https://bsky.app/profile/joshuacasey.net" },
     { mastodon = "https://social.dftba.xyz/@JoshuaACasey" },
+
     { instagram = { href = "https://pixelfed.social/JoshuaCasey", text = "Pixelfed", icon = "pixelfed" } },
     { tiktok = "https://www.tiktok.com/@autisticjoshua" },
     { youtube = "https://www.youtube.com/c/JoshuaCasey" },
+
     { discord = "https://discord.gg/38JUvfDpMt" },
 
-    { link = { href = "https://throne.com/joshuaacasey", text = "Throne Wishlist", icon = "gift" } },
-    { steam = "https://steamcommunity.com/id/JoshuaACasey" },
+    { amazon = { href = "https://throne.com/joshuaacasey", text = "Throne Wishlist", icon = "gift" } },
+    #{ steam = "https://steamcommunity.com/id/JoshuaACasey" },
     { steam = { href = "https://store.steampowered.com/wishlist/id/JoshuaACasey", text = "Steam Wishlist" } },
 
-    { github = "https://github.com/JoshuaACasey" },
+    { link = { href = "https://go.getproton.me/SH1pw", text = "Get your first month of Proton Unlimited for $1" } },
+    { link = { href = "https://go.getproton.me/SH1pf", text = "Protect your passwords with Proton Pass" } },
+    { link = { href = "https://go.getproton.me/SH1pq", text = "Get around censorship with Proton VPN" } },
+    { link = { href = "https://go.getproton.me/SH1pz", text = "Protect your precious family photos & files with Proton Drive" } },
+    #{ github = "https://github.com/JoshuaACasey" },
 
 
-    { email = { href = "mailto:joshua@joshuacasey.net", text = "Business Email Only" } },
+    { email = { href = "mailto:contact@joshuacasey.net", text = "Business Email Only" } },
     # { link = { href = "https://www.paypal.com/", text = "Tip with Paypal", icon = "" } },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
