@@ -16,30 +16,40 @@ headline = "Digital Rights Activist & Video Game Streamer"
 image = "/android-chrome-512x512.png"
 
 links = [
-    { twitch = { href = "https://joystick.tv/t/u/joshuaacasey?t=1797a72c", text = "Joystick.tv" } },
+    # Streaming
+    { twitch = { href = "https://joystick.tv/t/u/joshuaacasey?t=1797a72c", text = "Joystick.tv (18+)" } },
     { twitch = "https://twitch.tv/JoshuaACasey" },
 
+    # Social
     { bluesky = "https://bsky.app/profile/joshuacasey.net" },
     { mastodon = "https://social.dftba.xyz/@JoshuaACasey" },
-
     { instagram = { href = "https://pixelfed.social/JoshuaCasey", text = "Pixelfed", icon = "pixelfed" } },
+
+    # Video Game Clips
     { tiktok = "https://www.tiktok.com/@autisticjoshua" },
+    # Twitch Stream VODs(?)
     { youtube = "https://www.youtube.com/c/JoshuaCasey" },
 
+    # Discord Server
     { discord = "https://discord.gg/38JUvfDpMt" },
 
+    # Throne Wishlist
     { amazon = { href = "https://throne.com/joshuaacasey", text = "Throne Wishlist", icon = "gift" } },
+    
+    # Steam Wishlist
     #{ steam = "https://steamcommunity.com/id/JoshuaACasey" },
     { steam = { href = "https://store.steampowered.com/wishlist/id/JoshuaACasey", text = "Steam Wishlist" } },
 
-    { link = { href = "https://go.getproton.me/SH1pw", text = "Get your first month of Proton Unlimited for $1" } },
-    { link = { href = "https://go.getproton.me/SH1pf", text = "Protect your passwords with Proton Pass" } },
-    { link = { href = "https://go.getproton.me/SH1pq", text = "Get around censorship with Proton VPN" } },
-    { link = { href = "https://go.getproton.me/SH1pz", text = "Protect your precious family photos & files with Proton Drive" } },
+    # Proton Partner Links
+    { link = { href = "https://go.getproton.me/SH1pu", text = "Ditch Gmail. Use Proton Mail" } },
+    { link = { href = "https://go.getproton.me/SH1ph", text = "Protect your passwords with Proton Pass" } },
+    { link = { href = "https://go.getproton.me/SH1ps", text = "Get around censorship with Proton VPN" } },
+    { link = { href = "https://go.getproton.me/SH1pc", text = "Protect your precious family photos & files with Proton Drive" } },
     #{ github = "https://github.com/JoshuaACasey" },
 
+    # Business Email
+    { email = { href = "mailto:contact@joshuacasey.net", text = "Email (Business Only Please!)" } },
 
-    { email = { href = "mailto:contact@joshuacasey.net", text = "Business Email Only" } },
     # { link = { href = "https://www.paypal.com/", text = "Tip with Paypal", icon = "" } },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
