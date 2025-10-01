@@ -36,6 +36,8 @@ links = [
     # Throne Wishlist
     { amazon = { href = "https://throne.com/joshuaacasey", text = "Throne Wishlist", icon = "gift" } },
     
+    { patreon = { href = "https://buymeacoffee.com/joshuaacasey", text="Tip me", icon = "gift" } },
+
     # Steam Wishlist
     #{ steam = "https://steamcommunity.com/id/JoshuaACasey" },
     { steam = { href = "https://store.steampowered.com/wishlist/id/JoshuaACasey", text = "Steam Wishlist" } },
