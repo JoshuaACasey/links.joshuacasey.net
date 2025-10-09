@@ -35,7 +35,7 @@ links = [
 
     # Throne Wishlist
     { amazon = { href = "https://throne.com/joshuaacasey", text = "Throne Wishlist", icon = "gift" } },
-    
+
     { patreon = { href = "https://buymeacoffee.com/joshuaacasey", text="Tip me", icon = "gift" } },
 
     # Steam Wishlist
@@ -90,8 +90,8 @@ links = [
     # { threads = "https://threads.com/username" },
     #     { tiktok = "https://tiktok.com/@" },
     # { tumblr = "https://username.tumblr.com" },
-    #     { twitch = "https://twitch.tv/JoshuaACasey" },
-    #     { twitter = "https://twitter.com/Nerd_JAC" },
+    #     { twitch = "https://twitch.tv/username" },
+    #     { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { x = "https://x.com/" },
     #     { youtube = "https://www.youtube.com/c/" },
