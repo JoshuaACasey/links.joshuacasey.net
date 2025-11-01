@@ -50,7 +50,7 @@ links = [
     #{ github = "https://github.com/JoshuaACasey" },
 
     # Business Email
-    { email = { href = "mailto:contact@joshuacasey.net", text = "Email (Business Only Please!)" } },
+    #{ email = { href = "mailto:contact@joshuacasey.net", text = "Email (Business Only Please!)" } },
 
     # { link = { href = "https://www.paypal.com/", text = "Tip with Paypal", icon = "" } },
     # { link = "https://link-to-some-website.com/" },
