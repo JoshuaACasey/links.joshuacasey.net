@@ -26,7 +26,7 @@ links = [
     { instagram = { href = "https://pixelfed.social/JoshuaCasey", text = "Pixelfed", icon = "pixelfed" } },
 
     # Video Game Clips
-    { tiktok = "https://www.tiktok.com/@autisticjoshua" },
+    { tiktok = "https://www.tiktok.com/@autistic_nerdjc" },
     # Twitch Stream VODs(?)
     { youtube = "https://www.youtube.com/c/JoshuaCasey" },
 
