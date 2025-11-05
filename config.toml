@@ -23,10 +23,10 @@ links = [
     # Social
     { bluesky = "https://bsky.app/profile/joshuacasey.net" },
     { mastodon = "https://social.dftba.xyz/@JoshuaACasey" },
-    { instagram = { href = "https://pixelfed.social/JoshuaCasey", text = "Pixelfed", icon = "pixelfed" } },
+    #{ instagram = { href = "https://pixelfed.social/JoshuaCasey", text = "Pixelfed", icon = "pixelfed" } },
 
     # Video Game Clips
-    { tiktok = "https://www.tiktok.com/@autistic_nerdjc" },
+    #{ tiktok = "https://www.tiktok.com/@autistic_nerdjc" },
     # Twitch Stream VODs(?)
     { youtube = "https://www.youtube.com/c/JoshuaCasey" },
 
