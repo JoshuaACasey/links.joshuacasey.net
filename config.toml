@@ -41,7 +41,7 @@ links = [
 
     # Steam Wishlist
     #{ steam = "https://steamcommunity.com/id/JoshuaACasey" },
-    { steam = { href = "https://store.steampowered.com/wishlist/id/JoshuaACasey", text = "Steam Wishlist" } },
+    { steam = { href = "https://store.steampowered.com/wishlist/id/JoshuaACasey", text = "Steam Wishlist", icon = "gift" } },
 
     # Proton Partner Links
     #{ link = { href = "https://go.getproton.me/SH1pu", text = "Ditch Gmail. Use Proton Mail" } },
